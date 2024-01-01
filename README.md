@@ -7,5 +7,8 @@
 5) git checkout -b feature_x
 6) git push origin feature_x
 
+## Trees
+![branches](trees.png)
+
 ## Ramas
 ![branches](branches.png)
