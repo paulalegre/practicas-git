@@ -7,6 +7,7 @@
 5) git checkout -b feature_x
 6) git push origin feature_x
 
+Buenas ☻
 + Nuevo contenido
 + nuevo contebido
 Hola mundo!
