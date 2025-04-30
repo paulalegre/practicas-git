@@ -1,4 +1,4 @@
-# Prácticas con GIT
+HOLAAhola como estas # Prácticas con GIT
 
 1) git init
 2) git add *
