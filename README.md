@@ -7,6 +7,7 @@ HOLAAhola como estas # Prácticas con GIT
 5) git checkout -b feature_x
 6) git push origin feature_x
 
+Buenas ☻
 Hola somos Nico, Eve y Mariano
 Wachin.!
 + Nuevo contenido
