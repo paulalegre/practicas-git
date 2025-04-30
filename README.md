@@ -1,4 +1,4 @@
-HOLAAhola como estas # Prácticas con GIT
+# Prácticas con GIT
 
 1) git init
 2) git add *
@@ -7,6 +7,9 @@ HOLAAhola como estas # Prácticas con GIT
 5) git checkout -b feature_x
 6) git push origin feature_x
 
+## Cambios agregados por alumnos
+
+HOLAAhola como estas
 Buenas ☻
 Hola somos Nico, Eve y Mariano
 Wachin.!
@@ -15,7 +18,7 @@ Wachin.!
 Hola mundo!
 
 ## Trees
-![branches](trees.png)
+![branches](./trees.png)
 
 ## Ramas
-![branches](branches.png)
+![branches](./branches.png)
