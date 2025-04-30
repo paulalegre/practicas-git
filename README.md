@@ -18,7 +18,7 @@ Wachin.!
 Hola mundo!
 
 ## Trees
-![branches](./trees.png)
+![branches](trees.png)
 
 ## Ramas
-![branches](./branches.png)
+![branches](branches.png)
