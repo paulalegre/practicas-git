@@ -1,4 +1,4 @@
-# Prácticas con GIT
+HOLAAhola como estas # Prácticas con GIT
 
 1) git init
 2) git add *
@@ -8,6 +8,8 @@
 6) git push origin feature_x
 
 Buenas ☻
+Hola somos Nico, Eve y Mariano
+Wachin.!
 + Nuevo contenido
 + nuevo contebido
 Hola mundo!
