@@ -7,6 +7,8 @@
 5) git checkout -b feature_x
 6) git push origin feature_x
 
+Hola somos Nico, Eve y Mariano
+Wachin.!
 + Nuevo contenido
 + nuevo contebido
 Hola mundo!
