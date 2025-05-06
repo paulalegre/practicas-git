@@ -1,3 +1,4 @@
+
 # Prácticas con GIT
 
 1) git init
@@ -16,7 +17,8 @@ Wachin.!
 + Nuevo contenido
 + nuevo contebido
 Hola mundo!
-
++Agustina Prieto
+ 
 ## Trees
 ![branches](trees.png)
 
